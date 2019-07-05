@@ -1,0 +1,18 @@
+{
+    "name": "webpractik/agent",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "keywords": [
+        "bitrix"
+    ],
+    "authors": [
+        {
+            "name": "Sergey Voloshin",
+            "email": "git@varrcan.me"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
